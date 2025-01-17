@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+pinecone-client
+weaviate-client
+faiss-cpu
+pandas
+numpy
+faiss-cpu
+torch
+sentence_transformers
+python-dotenv
+langchain_community
+transformers
+sentence_transformers
+accelerate
